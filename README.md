@@ -7,6 +7,6 @@ Contributers
 	Razeeth
 	Sameera
 	Sahnas
-	Nithusha
+	Nithushaa
 	Piyumi
 	
