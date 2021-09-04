@@ -2,7 +2,7 @@
 SC 555 Web Programming Mini Project
 
 
-Contributers 
+Contributors 
 	Shihara
 	Razeeth
 	Sameera
